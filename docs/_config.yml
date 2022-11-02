@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cristian Sanchez Rodriguez"
+  name   : "Verónica Tornero Écija"
   avatar : "/assets/images/profile_picture.jpeg"
-  bio    : "Software robotics engineer at URJC"
+  bio    : "Ingeniería en Robótica Software en la URJC"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/csanrod"
+      url: "https://github.com/Veronica274"
 
 footer:
   links:
