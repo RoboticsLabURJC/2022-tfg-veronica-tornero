@@ -48,3 +48,10 @@ Intenta mapear todos los píxeles del ser humano (de la persona a analizar).
 He encontrado un artículo en el que comparan dos algortimos diferentes: BlazePose y OpenPose. El artículo tiene el título de **Comparing the Quality of Human Pose Estimation with BlazePose or OpenPose**
 
 Con toda la información que he conseguido reunir de momento, las tres formas de detectar la pose que más se ajustan a lo que buscamos son PoseNet, MoveNet y BlazePose, aunque me gustaría hacer una comparativa entre ellas, incluyendo OpenPose para saber cual de las 4 es la mejor para poder hacer la comparativa de los resultados con los resultados del exoesqueleto.
+
+Hay distintos enfoques para modelas el cuerpo humano:
+https://www.v7labs.com/blog/human-pose-estimation-guide
+
+![image](https://user-images.githubusercontent.com/72878061/199484812-52103d06-3799-40fe-8e79-06f5904492ed.png)
+
+A nosotros nos interesa el Skeleton-based model ya que nos permite saber el punto exacto donde percibe cada articulación.
