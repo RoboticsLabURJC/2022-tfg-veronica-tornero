@@ -45,6 +45,6 @@ Intenta mapear todos los píxeles del ser humano (de la persona a analizar).
 
 * TensorFlow Pose Estimation.
 
-He encontrado un artículo en el que comparan dos algortimos diferentes: BlazePose y MoveNet.
+He encontrado un artículo en el que comparan dos algortimos diferentes: BlazePose y OpenPose. El artículo tiene el título de **Comparing the Quality of Human Pose Estimation with BlazePose orOpenPose**
 
 Con toda la información que he conseguido reunir de momento, las tres formas de detectar la pose que más se ajustan a lo que buscamos son PoseNet, MoveNet y BlazePose, aunque me gustaría hacer una comparativa entre ellas, incluyendo OpenPose para saber cual de las 4 es la mejor para poder hacer la comparativa de los resultados con los resultados del exoesqueleto.
