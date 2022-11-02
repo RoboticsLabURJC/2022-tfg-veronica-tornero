@@ -20,7 +20,7 @@ https://programmerclick.com/article/1147927769/
 Este link es muy importante. En él hay un montón de información, incluidos los distintos algoritmos más comunes que utilizan las redes neuronales para la detección de la pose de las personas. Habla también sobre la *estimación de la pose* y cómo funciona. Incluye ejemplos de vídeo con personas en las que les detecta sus articulaciones.
 https://viso.ai/deep-learning/pose-estimation-ultimate-overview/
 
-### Una breve descripción de cada uno de ellos (obtenida de el link anterior).
+##### Una breve descripción de cada uno de ellos (obtenida de el link anterior).
 
 * OpenPose:
 Es muy robusto y proporciona la capacidad de detectar un total de 135 puntos vitales. Es uno de los mejores modelos. Es lightweight version y utiliza el bottom-up approach.
