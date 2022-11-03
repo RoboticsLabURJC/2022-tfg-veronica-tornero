@@ -1,9 +1,9 @@
 ---
 permalink: /about me/
-title: "About me"
+title: "Sobre mí"
 ---
 
-Hola!
+¡Hola!
 
 Mi nombre es Verónica Tornero y estoy terminando mis estudios de Ingeniería en Robótica Software en la universidad Rey Juan Carlos (URJC).
 
