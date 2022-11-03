@@ -10,7 +10,6 @@ Dentro de los exoesqueletos, y al margen de con qué articulaciones trabajen, ex
 
 Teniendo en mente todos los aspectos del proyecto, he decidido empezar a buscar cosas sobre el control de par y posición, principalmente para saber en qué momentos es más conveniente usar uno u otro, y así hacer una comparativa.
 
-
 ## Semana 2
 
 Aparte de eso, me parece interesante poner los tipos de exoesqueletos que hay, una clasificación de todos ellos, incluyendo y profundizando más en el exoesqueleto que vamos a usar para este trabajo. Aparte de la clasificación general, dentro de los exoesqueletos de extremidades inferiores, también se pueden agrupar dependiendo de las articulaciones que mueva. Aquí hay una imagen que ilustra esta última agrupación a la que me refiero:
