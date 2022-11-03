@@ -3,8 +3,12 @@ permalink: /about me/
 title: "About me"
 ---
 
-Hello, my name is Cristian and I'm currently finishing my degree in Robotics engineering in URJC.
+Hola!
 
-I'm a passionate about programming and everything related to electronics and hardware. Presently improving my knownledge about ROS, C++, Python, AI, Git, ...etc.
+Mi nombre es Verónica Tornero y estoy terminando mis estudios de Ingeniería en Robótica Software en la universidad Rey Juan Carlos (URJC).
 
-I like to describe myself as someone analytical, self-critical and perfectionist, always trying to advance to be competent on what I do.
+Decidí estudiar ingeniería robótica ya que lo que más me gustaría hacer es dedicarme a hacer prótesis robóticas o exoesqueletos para ayudar a mejorar la calidad de vida de las personas, tanto niños como adultos. Debido a esto, estoy haciendo las prácticas y el proyecto de fin de grado en una empresa dedicada a ello, Marsibionics.
+
+Estoy entusiasmada con el proyecto e iré publicando mis avances en este blog. Espero que disfrutéis del proceso tanto como lo estoy haciendo yo.
+
+¡Hasta pronto!
