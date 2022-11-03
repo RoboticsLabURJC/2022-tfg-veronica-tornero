@@ -4,9 +4,6 @@ last_modified_at: 2022-11-03
 categories:
   - Blog
 ---
-
-
-
 ## Semana 1
 
 Dentro de los exoesqueletos, y al margen de con qué articulaciones trabajen, existe una clasificación general que los divide en exoesqueletos activos y pasivos.
