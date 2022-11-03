@@ -18,7 +18,7 @@ title: ROBOTICS LAB URJC
 email: v.tornero.2018@alumnos.urjc.es
 description: "Diario sobre el progreso de mi trabajo de fin grado"
 github_username: Veronica274
-#minimal_mistakes_skin: dark
+minimal_mistakes_skin: air
 search: true
 logo: ./logo.png
 
