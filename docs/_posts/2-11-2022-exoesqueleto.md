@@ -3,37 +3,19 @@ title: "Week 1-2. Getting started"
 last_modified_at: 2022-08-01T19:43:00
 categories:
   - Blog
-tags:
-  - ROS Noetic
-  - Kanban
-  - Gazebo
-  - openCV
 ---
 
-This weeks were to create the workspace, install all needs and start developing a simple radio control.
 
-## Week 1
 
-The first week, I dedicated my time to look into some information inside [Antonio's TFM](https://github.com/RoboticsLabURJC/2020-tfm-antonio-triguero) about drones and the infrastructure behind. Also, I set up my TFG github repository to ensure the traceability of the project.
+## Semana 1
 
-Once that was done, I installed all the software needs to start coding and make sure that it was working properly:
+Dentro de los exoesqueletos, y al margen de con qué articulaciones trabajen, existe una clasificación general que los divide en exoesqueletos activos y pasivos.
 
-1. ROS Noetic for Ubuntu 20.04 LTS
-2. MavROS (Mavlink)
-3. JdeRobot-drones
+Teniendo en mente todos los aspectos del proyecto, he decidido empezar a buscar cosas sobre el control de par y posición, principalmente para saber en qué momentos es más conveniente usar uno u otro, y así hacer una comparativa.
 
-<p align="center">
-<img src="/2022-tfg-cristian-sanchez/images/px4_drone_gz.png" alt="drone" width="500"/>
-</p>
 
-## Week 2
+## Semana 2
 
-The next week, I started developing a simple teleoperator for Iris drone. I tried  some libraries (tkinter, pyqt5, ...etc) but openCV was the best option, because it was simple and easy to work with it.
+Aparte de eso, me parece interesante poner los tipos de exoesqueletos que hay, una clasificación de todos ellos, incluyendo y profundizando más en el exoesqueleto que vamos a usar para este trabajo. Aparte de la clasificación general, dentro de los exoesqueletos de extremidades inferiores, también se pueden agrupar dependiendo de las articulaciones que mueva. Aquí hay una imagen que ilustra esta última agrupación a la que me refiero:
 
-The goal, was to be able to command velocities using sliders, so the first idea was to move in the XYZ axes.
-
-On the other hand, I was introduce into kanban method, similar to scrum, wich objective is to manage and organice the tasks of the project. 
-
-<p align="center">
-<img src="/2022-tfg-cristian-sanchez/images/axes_rc.png" alt="drone" width="500"/>
-</p>
+![image](https://user-images.githubusercontent.com/72878061/199665790-45ac338d-230b-4056-817a-ae134297fe41.png)
