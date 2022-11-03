@@ -1,6 +1,6 @@
 ---
 title: "Semanas 1-2. Empezando el proyecto: búsqueda de información"
-last_modified_at: 2022-08-01T19:43:00
+last_modified_at: 2022-11-03
 categories:
   - Blog
 ---
