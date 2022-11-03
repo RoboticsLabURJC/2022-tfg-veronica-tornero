@@ -1,6 +1,6 @@
 ---
 permalink: /about me/
-title: "Sobre mí"
+title: "About me"
 ---
 
 ¡Hola!
