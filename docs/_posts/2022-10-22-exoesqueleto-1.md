@@ -14,10 +14,14 @@ Teniendo en mente todos los aspectos del proyecto, he decidido empezar a buscar 
 
 Aparte de eso, me parece interesante poner los tipos de exoesqueletos que hay, una clasificación de todos ellos, incluyendo y profundizando más en el exoesqueleto que vamos a usar para este trabajo. Aparte de la clasificación general, dentro de los exoesqueletos de extremidades inferiores, también se pueden agrupar dependiendo de las articulaciones que mueva. Aquí hay una imagen que ilustra esta última agrupación a la que me refiero:
 
-![image](https://user-images.githubusercontent.com/72878061/199665790-45ac338d-230b-4056-817a-ae134297fe41.png)
+<p align="center">
+<img src="/2022-tfg-veronica-tornero/images/Different kinds of multi-joint exoskeletons.png" width="500"/>
+</p>
 
 Como el ejercicio de rehabilitación en que nos queremos centrar es en de las sentadillas, teniendo en cuenta las características del exoesqueleto que vamos a utilizar, he buscado cual es la mejor forma de hacerlas sin que el paciente se haga daño.
 
-![image](https://user-images.githubusercontent.com/72878061/199759842-2bbb2da5-62d8-4db6-bfd3-1d99593c12f5.png)
+<p align="center">
+<img src="/2022-tfg-veronica-tornero/images/diferentes formas de hacer sentadillas_buena.png" width="500"/>
+</p>
 
 Creo que, al menos de momento, la mejor opción sería la de en medio, pero sin llegar a bajar tanto. La razón por la que no es conveniente que se llegue a bajar tanto es porque el exoesqueleto no tiene articulación del tobillo, por lo que lo mucho o poco que se baje depende de la movilidad del paciente. Esto significa que se bajará hasta donde al paciente le resulte cómodo, ya que nos centraremos en las articulaciones de cadera y rodilla.
