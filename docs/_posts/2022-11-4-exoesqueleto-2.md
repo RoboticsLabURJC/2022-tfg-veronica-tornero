@@ -12,7 +12,7 @@ También he buscado información sobre el Google Coral.
 He encontrado que hay tres enfoques distintos para modelar el cuerpo humano:
 
 <p align="center">
-<img src="/2022-tfg-veronica-tornero/images/tres enfoques para modelar el cuerpo humano.png" width="500"/>
+<img src="/2022-tfg-veronica-tornero/images/tres enfoques para modelar el cuerpo humano.png" alt="300" width="400"/>
 </p>
 
 * Skeleton-based model
