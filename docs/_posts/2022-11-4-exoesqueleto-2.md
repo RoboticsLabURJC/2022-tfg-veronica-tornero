@@ -17,8 +17,6 @@ He encontrado que hay tres enfoques distintos para modelar el cuerpo humano:
 
 El que más nos interesa es el primero, ya que lo único no nos interesa saber la posición de las articulaciones de una forma lo más exacta posible. El volumen y el contorno no nos son especialmente útiles para nuestro propósito.
 
-
-
 ## Semana 4
 
 Le he dedicado unos días a buscar información sobre los distintos motores que se pueden usar y sus ventajas y desventajas.
