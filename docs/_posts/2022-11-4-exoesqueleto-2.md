@@ -24,10 +24,16 @@ El que más nos interesa es el primero, ya que lo único no nos interesa saber l
 ## Semana 4
 
 Le he dedicado unos días a buscar información sobre los distintos motores que se pueden usar y sus ventajas y desventajas.
+
 Si el propósito del exoesqueleto no es levantar mucho peso, como es nuestro caso, entonces los motores que más conviene utilizar son los eléctricos.
 En años recientes el control pneumático para/de los robots en rehabilitación se introdujo y se consideró ventajoso en comparación con motores eléctricos debido al factor coste y mayor relación potencia-peso.
+
 Como ya se ha mencionado antes, si nuestro principal objetivo es levantar peso (o se va a necesitar levantar peso) lo mejor es usar actuadores hidráulicos. Sin embargo, necesitan mucha energía de la fuente de alimentación.
+
 Los actuadores pneumáticos son seleccionados normalmente por su peso ligero. El uso de motores hidráulicos y pneumáticos hace que los exoesqueletos no sean portátiles, sean pesados y difíciles de manipular.
+
 Los actuadores eléctricos tienen una alta capacidad de potencia, relación par-peso y precisión. Normalmente son más silenciosos que los hidráulicos y los pneumáticos.
+
 El feedback y el tiempo de respuesta de estos motores (los eléctricos) suele ser corto. Estos motores no son los óptimos si loque se busca es que el movimiento es rápido, sin embargo, como nuestro objetivo esque el exoesqueleto pueda bajar y subir con el paciente dentro, la velocidad no es un requisito indispensable.
+
 Lo que los motores eléctricos proporcionan también es mucha precisión, lo quesí es importante en nuestro proyecto.
