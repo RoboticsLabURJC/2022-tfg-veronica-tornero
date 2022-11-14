@@ -1,11 +1,15 @@
 
+
 | Arquitectura    | Framework             | Modelos    |   Submodelos   | Puntos clave | fps   | url/artículo |
 | :-------------: | :-------------------: | :--------: |   :--------:   | :---------- :| :---: | :----------: |
 | GPU Generalista | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
 |                 |                       |            | BlazePose Lite |      33      |   31  |      [1]     |
 | GPU generalista | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
 |                 |                       |            | Thunder        |      17      |  >30  |      [2]     |
-| Jetson nano     | Caffe                 | Openpose   |    -           |              |       |      [3]     |
+| Jetson nano     | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |
+|                 | Tensorflow            | PoseNet    |        -       |      17      |  ~10  |      [4]     |
+
+
 
 
 *Si alguna casilla está vacía significa que su contenido es igual al de su casilla inmediatamente superior.*
@@ -17,3 +21,20 @@
     
 [2] https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html#:~:text=MoveNet%20is%20an%20ultra%20fast,17%20keypoints%20of%20a%20body.
     
+
+[3] https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/index.html
+    
+    https://github.com/CMU-Perceptual-Computing-Lab/openpose_caffe_train
+
+    https://medium.com/@gsethi2409/pose-estimation-with-tensorflow-2-0-a51162c095ba
+    
+    https://viso.ai/deep-learning/openpose/#:~:text=Hardware%2Dwise%2C%20OpenPose%20supports%20different,Mac%2C%20and%20Nvidia%20Jetson%20TX2.
+    
+    https://github.com/CMU-Perceptual-Computing-Lab/openpose/issues/1093
+    
+   
+[4] https://www.analyticsvidhya.com/blog/2021/09/posture-detection-using-posenet-with-real-time-deep-learning-project/
+
+    https://blog.tensorflow.org/2018/05/real-time-human-pose-estimation-in.html
+    
+    https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits
