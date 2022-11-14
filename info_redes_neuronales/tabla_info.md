@@ -2,8 +2,10 @@
 | :-------------: | :-------: | :--------: |     :---:    | :---: | :----------: |
 | GPU Generalista | MediaPipe | BlazePose* |      33      | ~30*  |      [1]     |
 | TensorFlow      | MovePose  | Lightning  |      17      |  >50  |      [2]     |
-| TensorFlow      | MovePose  |  Thunder   |      17      |  >30  |      [2]     |
+|                 |           |  Thunder   |              |  >30  |      [2]     |
 
+
+*Si alguna casilla está vacía significa que su contenido es igual al de su casilla inmediatamente superior.*
 
 \*(1) BlazePose tiene dos modelos: BlazePose Full (\*10 fps) y BlazePose Lite (\*31 fps)
 [1] Artículo: **BlazePose: On-device Real-time Body Pose tracking (BlazePose_data)**
