@@ -1,13 +1,13 @@
 
 
-| Arquitectura    | Framework             | Modelos    | Submodelos     | Puntos clave | fps   | url/artículo |
-| :-------------: | :-------------------: | :--------: | :------------: | :----------: | :---: | :----------: |
-| GPU generalista | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
-|                 |                       |            | BlazePose Lite |      33      |   31  |      [1]     |
-| GPU generalista | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
-|                 |                       |            | Thunder        |      17      |  >30  |      [2]     |
-| Jetson nano     | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |
-| GPU generalista | Tensorflow/MobileNet  | PoseNet    |        -       |      17      |  ~10  |      [4]     |
+| Arquitectura          | Framework             | Modelos    | Submodelos     | Puntos clave | fps   | url/artículo |
+| :-------------:       | :-------------------: | :--------: | :------------: | :----------: | :---: | :----------: |
+| GPU generalista       | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
+|                       |                       |            | BlazePose Lite |      33      |   31  |      [1]     |
+| GPU generalista       | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
+|                       |                       |            | Thunder        |      17      |  >30  |      [2]     |
+| Jetson nano           | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |
+| Android/IOS/navegador | Tensorflow/MobileNet  | PoseNet    |        -       |      17      |  ~10  |      [4]     |
 
 
 
@@ -43,3 +43,5 @@
     https://github.com/Qengineering/TensorFlow_Lite_Pose_RPi_64-bits
     
     https://iq.opengenus.org/posenet-model/
+    
+    https://www.geeksforgeeks.org/posenet-pose-estimation/
