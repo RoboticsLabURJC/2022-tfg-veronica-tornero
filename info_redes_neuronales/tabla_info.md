@@ -1,10 +1,7 @@
 | Arquitectura    | Framework             | Modelos    |   Submodelos   | Puntos clave | fps   | url/artículo |
 | :-------------: | :-------------------: | :--------: |   :--------:   | :---------- :| :---: | :----------: |
 | GPU Generalista | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
-|                 |                       |            | BlazePose Lite |      33      |   31  |      [1]     |
-| GPU generalista | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
-|                 |                       |            | Thunder        |      17      |  >30  |      [2]     |
-| Jetson nano     | Caffe                 | Openpose   |    -           |              |       |      [3]     |
+
 
 
 *Si alguna casilla está vacía significa que su contenido es igual al de su casilla inmediatamente superior.*
