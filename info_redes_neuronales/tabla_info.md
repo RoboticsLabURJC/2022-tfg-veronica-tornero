@@ -5,7 +5,7 @@
 | TensorFlow      | MovePose  |  Thunder   |      17      |  >30  |      [2]     |
 
 
-* (1) BlazePose tiene dos modelos: BlazePose Full (* 10 fps) y BlazePose Lite (* 31 fps)
+\*(1) BlazePose tiene dos modelos: BlazePose Full (\*10 fps) y BlazePose Lite (\*31 fps)
 [1] Artículo: **BlazePose: On-device Real-time Body Pose tracking (BlazePose_data)**
     Artículo: **BlazePose GHUM Holistic: Real-time 3D Human Landmarks and Pose Estimation(BlazePoseMediaPipe)**
     
