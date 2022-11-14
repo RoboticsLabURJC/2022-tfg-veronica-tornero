@@ -7,7 +7,7 @@
 | GPU generalista | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
 |                 |                       |            | Thunder        |      17      |  >30  |      [2]     |
 | Jetson nano     | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |
-| GPU generalista | Tensorflow            | PoseNet    |        -       |      17      |  ~10  |      [4]     |
+| GPU generalista | Tensorflow/MobileNet  | PoseNet    |        -       |      17      |  ~10  |      [4]     |
 
 
 
