@@ -2,7 +2,7 @@
 
 | Arquitectura    | Framework             | Modelos    | Submodelos     | Puntos clave | fps   | url/artículo |
 | :-------------: | :-------------------: | :--------: | :------------: | :----------: | :---: | :----------: |
-| GPU eneralista | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
+| GPU generalista | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |
 |                 |                       |            | BlazePose Lite |      33      |   31  |      [1]     |
 | GPU generalista | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |
 |                 |                       |            | Thunder        |      17      |  >30  |      [2]     |
@@ -20,7 +20,7 @@
     
     
 [2] 
-    https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-            tensorflowjs.html#:~:text=MoveNet%20is%20an%20ultra%20fast,17%20keypoints%20of%20a%20body.
+    https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html#:~:text=MoveNet%20is%20an%20ultra%20fast,17%20keypoints%20of%20a%20body.     
     
 
 [3] 
