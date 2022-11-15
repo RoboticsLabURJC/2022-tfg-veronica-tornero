@@ -2,12 +2,12 @@
 
 | Arquitectura          | Framework             | Modelos    | Submodelos     | Puntos clave | fps   | url/artículo | open-source |
 | :-------------:       | :-------------------: | :--------: | :------------: | :----------: | :---: | :----------: | :---------: |
-| GPU generalista       | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |  [x]        |
+| GPU generalista       | MediaPipe/Tensorflow  | BlazePose  | BlazePose Full |      33      |   10  |      [1]     |  - [x]      |
 |                       |                       |            | BlazePose Lite |      33      |   31  |      [1]     |             |
-| GPU generalista       | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |  [x]        |
+| GPU generalista       | Tensorflow            | MoveNet    | Lightning      |      17      |  >50  |      [2]     |  - [x]      |
 |                       |                       |            | Thunder        |      17      |  >30  |              |             |
-| Jetson nano           | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |  [x]        |
-| Android/IOS/navegador | Tensorflow/MobileNet  | PoseNet    |        -       |      17      |  ~10  |      [4]     |  [x]        |
+| Jetson nano           | Caffe/Tensorflow      | Openpose   |        -       |      135     |   10  |      [3]     |  - [x]      |
+| Android/IOS/navegador | Tensorflow/MobileNet  | PoseNet    |        -       |      17      |  ~10  |      [4]     |  - [x]      |
 
 
 
