@@ -9,11 +9,11 @@ El exoesqueleto con el que se va a realizar este proyecto tiene unos sensores me
 
 A continuación se muestra un diagrama de los ángulos obtenidos con el exoesqueleto:
 
-<p align="left">
-<img src="/2022-tfg-veronica-tornero/images/diagrama_monigote_angulos.png" alt="300" width="400"/>
+<p align="center">
+<img src="/2022-tfg-veronica-tornero/images/diagrama_monigote_angulos.png" alt="200" width="300"/>
 </p>
 
-<p align="right">
+<p align="center">
 <img src="/2022-tfg-veronica-tornero/images/diagrama_sobre_mi_angulos.png" alt="300" width="400"/>
 </p>
 
